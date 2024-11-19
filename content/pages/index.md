@@ -159,7 +159,7 @@ sections:
         - name: Mobile Number
           label: Address
           hideLabel: true
-          placeholder: Mobile Number
+          placeholder: Mobile Number (Optional)
           isRequired: false
           width: 1/2
           type: TextFormControl
