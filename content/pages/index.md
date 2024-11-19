@@ -160,7 +160,7 @@ sections:
           label: Address
           hideLabel: true
           placeholder: Mobile Number
-          isRequired: true
+          isRequired: false
           width: 1/2
           type: TextFormControl
         - name: updatesConsent
