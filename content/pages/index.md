@@ -156,7 +156,7 @@ sections:
           isRequired: true
           width: 1/2
           type: EmailFormControl
-        - name: Phone No
+        - name: Mobile Number
           label: Address
           hideLabel: true
           placeholder: Mobile Number
