@@ -13,14 +13,13 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ## I’m a Data Scientist, Data Analyst, Human Resources (HR), Project
+      Manager, Content Manager, and many other impressive titles and buzzwords.
+
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/IMAGE.jpg
       altText: Hero image
     styles:
       self:
