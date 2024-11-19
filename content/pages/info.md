@@ -15,7 +15,7 @@ sections:
     backgroundSize: full
     text: >+
       ## I’m a Data Scientist, Data Analyst, Human Resources (HR), Project
-      Manager, and a bunch of other impressive titles and buzz words.
+      Manager, Content Manager, and many other impressive titles and buzzwords.
 
     media:
       type: ImageBlock
